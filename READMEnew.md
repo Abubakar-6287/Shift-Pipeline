@@ -1,4 +1,4 @@
-# Project-HR: Visual Pipeline Workflow Builder
+Visual Pipeline Workflow Builder
 
 A modern web application for creating, managing, and executing complex data processing pipelines with a visual node-based editor interface.
 
